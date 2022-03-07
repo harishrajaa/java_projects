@@ -29,9 +29,9 @@ instance variable = belongs to class
 
 object and references============
 
-constructor=====define within the class----type of method---implicitly called
+constructor=====define within the class----type of method---implicitly called---dont have any return types....designed not to return anything.--constructor and object name should be saame----deffault/parameterised/
 
-this operator=====using same name---this refers to the current object
+'this' operator=====using same name---this refers to the current object
 
 main class===class which contains public static void main
 
