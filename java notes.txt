@@ -28,3 +28,10 @@ variables----instance---id-name, salary, local, static
 instance variable = belongs to class
 
 object and references============
+
+constructor=====define within the class----type of method---implicitly called
+
+this operator=====using same name---this refers to the current object
+
+main class===class which contains public static void main
+
