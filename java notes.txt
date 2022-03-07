@@ -35,3 +35,4 @@ constructor=====define within the class----type of method---implicitly called---
 
 main class===class which contains public static void main
 
+static variable = 
