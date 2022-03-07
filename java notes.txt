@@ -1,0 +1,30 @@
+java:
+
+----set the path
+-----command line arguments - pass input  when we run the program
+                            - arguments read input as strings
+		System.out.println(args[0]);
+
+class names----Student, TestStudent
+variable names----
+	identifiers
+	myWidth
+method names-----getter and setter
+comments--------/**/
+java keywords
+operators--------arithmetic, logical, unary, relational, comparison, shift, 
+
+flow control system-------
+	control flow
+
+arrays=====
+arraycopy(source, 0, dest, 0, source.length);
+
+clas============
+class<class name>
+
+variables----instance---id-name, salary, local, static
+
+instance variable = belongs to class
+
+object and references============
